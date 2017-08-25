@@ -1,0 +1,8 @@
+[package]
+name = "adjacent_lines"
+version = "0.1.0"
+authors = ["Tomasz Kłak <tomasz@tomaszklak.pl>"]
+
+[dependencies]
+iterslide = "1.0.0"
+itertools = "0.6.1"
