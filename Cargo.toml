@@ -2,6 +2,10 @@
 name = "adjacent_lines"
 version = "0.1.0"
 authors = ["Tomasz Kłak <tomasz@tomaszklak.pl>"]
+description = "Function for visiting all adjacent lines in a Read instance."
+license-file = "LICENSE"
+homepage = "https://github.com/tumdum/adjacent_lines"
+repository = "https://github.com/tumdum/adjacent_lines"
 
 [dependencies]
 iterslide = "1.0.0"
